@@ -31,8 +31,10 @@ const Header = ({type}) => {
         <span>Gallery</span>
         </div>
         </div>
-       <h1 className="headerTitle">Heading</h1>
-      <p className="headerdesc">Description</p>
+       <h1 className="headerTitle">Welcome to the website for Disang hostel welfare at IIT GUWAHATI</h1>
+      <p className="headerdesc">You may find all the information you need right here to have a pleasant and pleasurable stay at our hostel, Disang. The Disang HMC hostel specific information (for men's and women's residences), information on exciting events going on, the Hostel Notice Board for quick access to important information, contact information for the hostel management, a map of the location, and a complain portal when things don't go right are all available here.
+    <br/> <br/> During your visit, we hope you will find our website to be helpful.
+</p>
       
       </div>
 
